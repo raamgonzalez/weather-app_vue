@@ -96,7 +96,7 @@ body{
 }
 
 #app{
-  background-image: url('./background-clouds.jpg');
+  background-image: url('/background-clouds.jpg');
   background-size: cover;
   background-position: center center;
   transition: 0.4s;
